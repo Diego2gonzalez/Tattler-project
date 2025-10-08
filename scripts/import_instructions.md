@@ -1,0 +1,1 @@
+mongoimport --db tattlerDB --collection restaurantes --type csv --headerline --file ./scripts/restaurantes.csv

@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68e5dd3dc98de4b766cebea4"
+  },
+  "nombre": "Restaurante de Prueba",
+  "tipo_comida": "Mexicana",
+  "calificacion_promedio": 5
+},
+{
+  "_id": {
+    "$oid": "68e5dfc4b04bbc0cd0e6cd05"
+  },
+  "nombre": "La Taqueria del Centro",
+  "tipo_comida": "Mexicana",
+  "ciudad": "Monterrey"
+},
+{
+  "_id": {
+    "$oid": "68e5dfc4b04bbc0cd0e6cd06"
+  },
+  "nombre": "Pizza Nostra",
+  "tipo_comida": "Italiana",
+  "ciudad": "Guadalajara"
+},
+{
+  "_id": {
+    "$oid": "68e5dfc4b04bbc0cd0e6cd07"
+  },
+  "nombre": "Sushi-itto",
+  "tipo_comida": "Japonesa",
+  "ciudad": "Ciudad de Mexico"
+}]
